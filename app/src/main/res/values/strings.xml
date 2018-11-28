@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab 4.1 sharedprof</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name">user_name</string>
+    <string name="no_name">no_name</string>
+    <string name="gender">gender</string>
+    <string name="hello_user">Hello User</string>
+    <string name="name">Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>
